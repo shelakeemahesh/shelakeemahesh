@@ -1,6 +1,10 @@
 # 💫 About Me:
-Full-stack web applications using React, Spring Boot, MongoDB, and AI-powered features like resume matching, recommendations, and smart analytics.AI-driven web apps, full-stack projects, SaaS tools, and real-world problem-solving platforms using Java + React.System design, scalable backend architecture, and advanced AI integrations (LLMs, embeddings, recommendations).Advanced Spring Boot, system design, AI integration (LLMs), backend optimization, and deployment workflows.<br>React, Java, Spring Boot, REST APIs, MongoDB, JWT authentication, full-stack project structure, and AI-based applications.I enjoy turning complex ideas into clean, working full-stack systems.
+# 💫 About Me
 
+I build full-stack web applications using React, Spring Boot, MongoDB, and AI-powered features.
+I’m interested in developing AI-driven web apps, scalable SaaS products, and real-world problem-solving platforms using Java and React.
+Actively learning advanced Spring Boot concepts, backend optimization, AI integration workflows, and deployment strategies.
+Ask me about React, Java, Spring Boot, REST APIs, MongoDB, JWT authentication, full-stack architecture, and AI-based application development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shelakeemahesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shelakemahesh024@gmail.com) 
