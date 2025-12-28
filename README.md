@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me
 
 I build full-stack web applications using React, Spring Boot, MongoDB, and AI-powered features.
