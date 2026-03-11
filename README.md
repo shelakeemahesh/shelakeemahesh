@@ -4,11 +4,11 @@ Full-Stack Developer building scalable web applications using **React, Java, Spr
 
 Interested in **AI-powered applications, SaaS platforms, and real-world problem-solving systems**.
 
-Currently learning:
-- Advanced **Spring Boot architecture**
-- **Backend optimization**
+Currently exploring:
+- **Advanced Spring Boot architecture**
+- **Backend performance optimization**
 - **AI integration in web applications**
-- **Production deployment strategies**
+- **Production deployment and scalability**
 
 Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication, System Design, and AI-based applications.**
 
@@ -40,6 +40,7 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools / Deployment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
@@ -50,8 +51,15 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 
 ```mermaid
 flowchart LR
+
 A[Client Browser] --> B[React Frontend]
-B --> C[REST API Layer]
-C --> D[Spring Boot Backend]
-D --> E[Hibernate / JPA]
-E --> F[(MongoDB / MySQL Database)]
+
+B --> C[Spring Boot Controller]
+
+C --> D[Service Layer]
+
+D --> E[Repository Layer]
+
+E --> F[Hibernate / JPA]
+
+F --> G[(MongoDB / MySQL Database)]
