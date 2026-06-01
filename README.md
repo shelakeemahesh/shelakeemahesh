@@ -20,6 +20,14 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shelakemahesh024@gmail.com)
 
 ---
+# 📁 Projects
+- 🚀 **[NexusHR](https://hr-frontend-one-sepia.vercel.app/login)**
+- 💸 **[Money Manager](https://money-manager-one-chi.vercel.app/login)**
+- 💱 **[Currency Converter](https://currency-converter-pi-drab.vercel.app/)**
+- 🛒 **[SwiftCart]()** (Link to be added manually)
+- 🏢 **[Society Management System]()** (Link to be added manually)
+
+---
 
 # 💻 Tech Stack
 
