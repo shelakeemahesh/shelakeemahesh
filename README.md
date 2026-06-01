@@ -47,8 +47,11 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### Tools / Deployment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
@@ -56,18 +59,12 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 ---
 
 # 🏗 Full Stack Architecture
-
 ```mermaid
 flowchart LR
-
 A[Client Browser] --> B[React Frontend]
-
 B --> C[Spring Boot Controller]
-
 C --> D[Service Layer]
-
 D --> E[Repository Layer]
-
 E --> F[Hibernate / JPA]
-
-F --> G[(MongoDB / MySQL Database)]
+F --> G[(MySQL / PostgreSQL / MongoDB Database)]
+D --> H[(Redis Cache)]
