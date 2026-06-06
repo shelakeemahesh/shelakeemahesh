@@ -22,10 +22,10 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 ---
 # 📁 Projects
 - 🚀 **[NexusHR](https://hr-frontend-one-sepia.vercel.app/login)**
-- 💸 **[Money Manager](https://money-manager-one-chi.vercel.app/login)**
-- 💱 **[Currency Converter](https://currency-converter-pi-drab.vercel.app/)**
 - 🛒 **[SwiftCart]()** (Link to be added manually)
+- 💸 **[Money Manager](https://money-manager-one-chi.vercel.app/login)**
 - 🏢 **[Society Management System]()** (Link to be added manually)
+- 💱 **[Currency Converter](https://currency-converter-pi-drab.vercel.app/)**
 
 ---
 
