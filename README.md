@@ -26,7 +26,7 @@ Ask me about **React, Java, Spring Boot, REST APIs, MongoDB, JWT Authentication,
 - 💸 **[Money Manager](https://money-manager-one-chi.vercel.app/login)**
 - 🏢 **[Society Management System]()** (Link to be added manually)
 - 💱 **[Currency Converter](https://currency-converter-pi-drab.vercel.app/)**
-- 👨‍💻 **[Portfolio_Website](https://portfolio-website-livid-six-25.vercel.app/)**
+- 👨‍💻 **[Portfolio Website](https://portfolio-website-livid-six-25.vercel.app/)**
 ---
 
 # 💻 Tech Stack
