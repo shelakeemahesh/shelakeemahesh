@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Mahesh Shelake
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shelakeemahesh)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MaheshShelake18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-livid-six-25.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shelakemahesh024@gmail.com)
-[![Roadmap](https://img.shields.io/badge/Project_Board-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/shelakeemahesh/projects/8)
+[![Project Roadmap](https://img.shields.io/badge/NexusHR_Roadmap-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/shelakeemahesh/projects/8)
+
+📍 **Pune, India** • Full-Stack & Backend Systems Engineer
 
 ---
 
@@ -11,8 +14,24 @@
 Full-Stack & Systems Developer building high-concurrency, scalable web applications using **Java 21, Spring Boot 3, React 18, and modern event-driven cloud architectures**. 
 
 - ⚡ Specializing in **resilient backend microservices**, **distributed caching**, and **asynchronous event brokers**.
-- 🧠 Active in **AI integration** (Vector search, semantic retrieval, and LLM-augmented workflows).
-- 🛠️ Dedicated to writing production-ready, clean, secure, and thoroughly tested enterprise code.
+- 🧠 Active in **AI integration** (Vector search, semantic candidate retrieval, and computer vision).
+- 🛠️ Passionate about writing production-ready, clean, secure, and thoroughly tested enterprise code.
+
+---
+
+# 📁 Featured Projects
+
+| Project | Description | Live App | GitHub Repositories |
+| :--- | :--- | :---: | :---: |
+| 🚀 **NexusHR** | Enterprise HRMS platform with **TOTP MFA 2FA, JWT token rotation, RabbitMQ asynchronous event broker, Redis circuit breaker, Flyway migrations, and live SSE push notifications**. | [Live Demo](https://hr-frontend-one-sepia.vercel.app/login) | [Frontend](https://github.com/shelakeemahesh/HR-Frontend) • [Backend](https://github.com/shelakeemahesh/HR-Backend) |
+| 🛒 **SwiftCart** | Scalable e-commerce application featuring catalog search & filtering, real-time cart operations, secure checkout, order processing, and inventory management. | [Live Demo](https://swift-cart-frontend-gold.vercel.app/) | [Frontend](https://github.com/shelakeemahesh/SwiftCart-Frontend) • [Backend](https://github.com/shelakeemahesh/SwiftCart-Backend) |
+| 💸 **Money Manager** | AI-powered personal finance platform with income/expense logging, budget forecasting, transaction auditing, and JWT + OTP security. | [Live Demo](https://money-manager-one-chi.vercel.app/login) | [Frontend](https://github.com/shelakeemahesh/Money-Manager-Frontend) • [Backend](https://github.com/shelakeemahesh/Money-Manager-Backend) |
+| 💱 **Currency Converter** | Fast, responsive currency conversion app delivering real-time foreign exchange market rates with dynamic historical currency calculation. | [Live Demo](https://currency-converter-pi-drab.vercel.app/) | [Repository](https://github.com/shelakeemahesh/currency-converter) |
+| 👨💻 **Portfolio Website** | Interactive developer portfolio showcasing full-stack projects, architecture case studies, certifications, and technical experience. | [Live Demo](https://portfolio-website-livid-six-25.vercel.app/) | [Repository](https://github.com/shelakeemahesh/Portfolio-Website) |
+| 🤖 **AI Exam Proctoring System** | Intelligent proctoring platform leveraging Computer Vision for real-time candidate face detection, eye tracking, head pose estimation, and fraud detection. | — | [Repository](https://github.com/shelakeemahesh/AI-Based-Exam-Proctoring-and-Evaluation-System) |
+| ⭐ **StoreRate** | Full-stack customer review and rating platform for store discovery, verified customer reviews, and merchant feedback analytics. | — | [Repository](https://github.com/shelakeemahesh/StoreRate) |
+| 📚 **Full-Stack Documentation Hub** | Developer roadmap, system design guides, and API architectural documentation built with Next.js 14 and Fumadocs. | — | [Repository](https://github.com/shelakeemahesh/Documentation) |
+| 🕷️ **Robust Web Scraper** | Lightweight Chrome Extension (Manifest V3) for structured web scraping with custom CSS selectors and quick export presets. | — | [Repository](https://github.com/shelakeemahesh/robust-web-scraper) |
 
 ---
 
@@ -31,11 +50,11 @@ Full-Stack & Systems Developer building high-concurrency, scalable web applicati
 ### ⚛️ Frontend Architecture
 ![React](https://img.shields.io/badge/React_18-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,7 +63,7 @@ Full-Stack & Systems Developer building high-concurrency, scalable web applicati
 ![Flyway](https://img.shields.io/badge/Flyway_Migrations-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### 🛠️ DevOps, Cloud & CI/CD
+### 🛠️ DevOps, Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -54,19 +73,7 @@ Full-Stack & Systems Developer building high-concurrency, scalable web applicati
 
 ---
 
-# 📁 Featured Projects
-
-| Project | Description | Live Demo | Source Code |
-| :--- | :--- | :---: | :---: |
-| 🚀 **NexusHR** | Enterprise HRMS platform with **TOTP MFA 2FA, JWT token rotation, RabbitMQ asynchronous event broker, Redis circuit breaker, Flyway migrations, and live SSE push notifications**. | [Live App](https://hr-frontend-one-sepia.vercel.app/login) | [Backend](https://github.com/shelakeemahesh/HR-Backend) • [Frontend](https://github.com/shelakeemahesh/HR-Frontend) |
-| 🛒 **SwiftCart** | High-performance full-stack e-commerce application featuring catalog browsing, cart management, checkout processing, and responsive modern UI. | [Live App](https://swift-cart-frontend-gold.vercel.app/) | [GitHub](https://github.com/shelakeemahesh) |
-| 💸 **Money Manager** | Personal finance and expense tracking platform with category-based budgeting, balance auditing, and visual cash-flow breakdowns. | [Live App](https://money-manager-one-chi.vercel.app/login) | [GitHub](https://github.com/shelakeemahesh) |
-| 💱 **Currency Converter** | Instant international exchange rate calculator powered by real-time financial market APIs with currency conversion historical charts. | [Live App](https://currency-converter-pi-drab.vercel.app/) | [GitHub](https://github.com/shelakeemahesh) |
-| 👨💻 **Portfolio Website** | Modern interactive personal engineering portfolio showcasing live projects, architectural case studies, and engineering achievements. | [Live App](https://portfolio-website-livid-six-25.vercel.app/) | [GitHub](https://github.com/shelakeemahesh) |
-
----
-
-# 🏗 Enterprise System Architecture
+# 🏗 Full Stack System Architecture (NexusHR)
 
 ```mermaid
 flowchart TD
